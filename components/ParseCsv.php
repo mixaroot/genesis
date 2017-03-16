@@ -5,7 +5,7 @@ namespace components;
 /**
  * Work with csv
  * Class ParseCsv
- * @package lib
+ * @package components
  */
 class ParseCsv
 {
