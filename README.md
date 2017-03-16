@@ -15,7 +15,7 @@ php index.php WriteAlbumsPhotosConsole writeMethod
 4) Чтение информации о пользователе (имя, фамилия, картика 75 на 75)
 php index.php ReadAlbumsPhotosConsole readMethod --id=144623167
 
-Замечания
+# Замечания
 Получать картинки и альбомы можно кусками с помощью параметра offset (https://vk.com/dev/photos.getAlbums, https://vk.com/dev/photos.get).
 По причине того что у пользователя может быть очень много картинок.
 Но решил что для тестового задания достаточно и без offset.
